@@ -1,1 +1,1 @@
-This is an introduction to the bloackchain process for The_Hacking_Project
+This is an introduction to the blockchain process for The_Hacking_Project
