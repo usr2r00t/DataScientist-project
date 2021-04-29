@@ -38,7 +38,7 @@ Maintenant on va travailler avec des hash. Voici deux arrays, un qui contient de
 Associe chaque devise à son montant pour obtenir un hash du genre :
 
 ```my_hash = {Bitcoin: 6558.07, Ethereum: 468.95, XRP: 0.487526, etc.}```
-Hint : Il est entièrement possible de le faire "à la main" via une boucle, mais je t'invite à chercher s’il n'existe pas une méthode Ruby spécialement pour ça 😉.
+Hint : Il est entièrement possible de le faire à la mano via une boucle.
 
 Une fois cette association réalisée, code un programme Ruby pour donner :
 - La ou les crypto qui ont la plus grosse valeur.
